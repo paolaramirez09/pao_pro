@@ -3,7 +3,7 @@ title: Pao Pro
 subtitle: # by HTML5 UP
 email: paolaramirez09@gmail.com
 description: A professional responsive site template d
-baseurl: "/pao-pro" # the subpath of your site, e.g. /blog
+baseurl: "/pao_pro_site" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
