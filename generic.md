@@ -12,4 +12,4 @@ I graduated with my B.S. in Information Technology in 2016 and joined the Army R
 
 I'm excited to further my talents and capabilities. AWS has a lot of available training that I'm grateful for. I also like to train on ACloudGuru, Linux Academy, Udemy, TutorialsDojo, Skillwise, and EduOnix. Last, I will like to grow my Automation Engineering and Software Engineering career.
 
-Join me in this journey and connect with me or send me a friend request on LinkedIn if you share the same interests or would like to know more about me.
+Join me on this journey and connect with me or send me a friend request on LinkedIn if you share the same interests or would like to know more about me.
