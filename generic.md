@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: About Me
+<!--description: Lorem ipsum dolor est-->
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Hi I'm Paola or Pao as some like to call me. Ive always had a passion for technology. My interests are: software engineering, fullstack development, graphic design, 3d printing, back-end and front-end development, cloud services, coding, robotics, and automation engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+I graduated with my B.S. in Information Technology in 2016 and joined the Army Reserves in 2013 as an Intelligence Analyst. Currently I'm working as a technical sales representative at Amazon Web Services (AWS).
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+I'm excited to further my talents and capabilities. AWS has a lot of available training that I'm grateful for. I also like to train on ACloudGuru, Linux Academy, Udemy, TutorialsDojo, Skillwise, and EduOnix. Last, I will like to grow my Automation Engineering and Software Engineering career.
+
+Join me in this journey and connect with me or send me a friend request on LinkedIn if you share the same interests or would like to know more about me.
